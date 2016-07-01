@@ -9,6 +9,7 @@
   <disabled>false</disabled>
   <blockBuildWhenDownstreamBuilding>false</blockBuildWhenDownstreamBuilding>
   <blockBuildWhenUpstreamBuilding>false</blockBuildWhenUpstreamBuilding>
+  <authToken>l3tsg0!</authToken>
   <triggers/>
   <concurrentBuild>false</concurrentBuild>
   <builders>
